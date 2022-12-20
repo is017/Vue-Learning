@@ -12,4 +12,4 @@ export default {
     Count,
   },
 };
-</script>
+</script> 
